@@ -19,7 +19,7 @@ function App() {
       <h1>此项目已停用</h1>
       <div className="card">
         <p>
-          由于 OpenAI API 免费额度有限，本项目已停止维护 <br />
+          由于 API 免费额度有限，本项目暂时停用 <br />
           微信：yc_zzh
         </p>
       </div>
